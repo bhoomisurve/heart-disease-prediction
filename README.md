@@ -1,4 +1,4 @@
-# ❤️ Heart Disease Prediction using Machine Learning
+#  Heart Disease Prediction using Machine Learning
 
 This project predicts the presence of heart disease using patient medical records. The model is trained using a synthetic yet realistic dataset.
 
